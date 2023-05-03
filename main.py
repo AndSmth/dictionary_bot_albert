@@ -78,7 +78,7 @@ first = True
 
 
 #bot = telebot.TeleBot(os.environ.get('BOT_TOKEN'))
-bot = telebot.TeleBot('6147352947:AAGw2dPTsNfXV501DMhsYXzrXlbkBucEU8o')
+bot = telebot.TeleBot('6261134935:AAE743SHgxdEDgzlkB3GnT4TEZsmuHcPfn0')
 
 def update_dicts_markup():
     global dicts_markup
